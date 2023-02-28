@@ -1,0 +1,26 @@
+// for binary search in containers like vector (let target element=6)
+binary_search(v.begin(), v.end(), 6); 
+// return 1 or 0 as present or not
+
+// max/min of two numbers
+ans = max(a,b);
+ans = min(a,b);
+
+// max/min of three numbers
+ans = max(a,max(b,c));
+ans = min(a, min(b,c));
+
+// swap two numbers
+swap(a,b);
+
+// reverse containers like vectors, strings
+reverse(v.begin(), v.end());
+
+// rotate containers like vector, strings by n position
+rotate(v.begin(), v.begin()+n, v.end());
+
+// sort arrays of size n
+sort(arr, arr+n);
+
+// sort containers like vector, strings(based on intro sort)
+sort(v.begin(), v.end());

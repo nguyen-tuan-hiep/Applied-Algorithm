@@ -10,7 +10,7 @@ int x[10000];
 int visited[10000];
 
 void  input(){
-    cin >> n >> k;
+    cin >> k >> n;
 }
 
 void printSolution(){

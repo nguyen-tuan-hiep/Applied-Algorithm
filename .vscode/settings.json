@@ -1,6 +1,11 @@
 {
     "files.associations": {
         "array": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "type_traits": "cpp",
+        "iostream": "cpp"
     }
 }

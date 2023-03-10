@@ -10,7 +10,7 @@ void  input(){
 
 void printSolution(){
     for(int i = 1; i<=n; i++)
-        cout << x[i] << " ";
+        cout << x[i];
     cout << endl;
 }
 
